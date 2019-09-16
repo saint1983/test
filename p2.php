@@ -190,10 +190,7 @@ include 'theheader.php';
 
  
 
-  <div class="form-group">
-    <label for="exampleFormControlTextarea1">Pourquoi voulez vous être à Simplon</label>
-    <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
-  </div>
+  
  
  <p><font color = "red" >Une fois le bouton continuer appuyé vous ne pourrez rien modifier</font></p>
   <button type="submit" class="btn btn-primary">CONTINUER</button>
